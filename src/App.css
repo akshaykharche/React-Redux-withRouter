@@ -1,0 +1,34 @@
+.outer-container{
+  margin: 50px;
+  border-style: solid;
+  border-width: 1px 1px 0px 1px;
+  width: 50%;
+}
+.row-style {
+  border-bottom: 1px solid;
+}
+.search-textbox{
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  padding: 5px;
+  width: 100%;
+}
+.image-resolution{
+  width: 48px;
+  height: 48px;
+  margin: 10px;
+}
+.display-container{
+  margin: 20px 0px 0px 5px;
+}
+.contact-details-image{
+  width:128px;
+  height: 128px;
+  margin: 10px;
+}
+
+.spinner{
+  position: fixed;
+  top:50%;
+  left: 20%;
+}
